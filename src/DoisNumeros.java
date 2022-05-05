@@ -9,6 +9,7 @@ public class DoisNumeros {
 		int num2;
 		int resultado;
 		
+		
 		System.out.println("Digite um numero:");
 		num1= sc.nextInt();
 		
